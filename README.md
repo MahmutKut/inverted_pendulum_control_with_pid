@@ -2,7 +2,7 @@
 This project aims to control an inverted pendulum system using a PID (Proportional-Integral-Derivative) controller implemented in MATLAB Simulink with Simspace. The inverted pendulum is a classic problem frequently used in control systems and robotics. This study focuses on designing and implementing a PID controller to stabilize the inverted pendulum system.
 
 ## **Project Structure**
-**This repository contains the following files and folders:**
+_**This repository contains the following files and folders:**_
 
 **inverted_pendulum_modelling.slx:**  Contains the Simulink model of the inverted pendulum system.
 
@@ -11,7 +11,7 @@ This project aims to control an inverted pendulum system using a PID (Proportion
 **pid.mp4:** Demonstrates the operation of the system. 
 
 ## **Usage** 
-**After downloading the project files, follow these steps to run the Simulink model and adjust the PID controller parameters:**
+_**After downloading the project files, follow these steps to run the Simulink model and adjust the PID controller parameters:**_
 
 **1 -** Open the pid_control.slx file in MATLAB Simulink.
 
